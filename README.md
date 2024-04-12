@@ -1,5 +1,3 @@
-# sw-admin-react
-
 ## Project setup
 ```
 yarn install
@@ -13,16 +11,4 @@ yarn dev
 ### Static build
 ```
 yarn build
-```
-
-### Static build preview
-```
-yarn preview
-```
-
-
-### Lints and fixes files
-```
-yarn lint
-yarn lint:fix
 ```
